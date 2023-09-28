@@ -50,10 +50,7 @@ body {
     color: IRIS#4D5AE5;
 }
 .filter-button {
-    width: 101px;
-    height: 48px;
-    border: 1px;
-    padding: 12px, 24px, 12px, 24px;
+
     background-color:#E7E9FC ;
 }
 .filter-button:hover {

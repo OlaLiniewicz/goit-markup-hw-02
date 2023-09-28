@@ -4,7 +4,9 @@ body {
 .filters-list {
     color: IRIS#4D5AE5;
 }
-
-
-{color: NAVY BLUE #2E2F42;}
-{color:  SLATE #434455;}
+.filter-button {
+    background-color: cornflower ;
+}
+.filter-button:hover {
+    background-color: ocean   ;
+}

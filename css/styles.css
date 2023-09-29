@@ -1,7 +1,9 @@
 body {
-    font-family: 'Roboto', sans-serif;
-    background-color: #FFFFFF;
-}
+    font-family: var(--main-font)
+    color: var(--SLATE);
+    background-color: var(--background-color);
+     }
+
 :root {
     --IRIS: #4D5AE5;
     --OCEAN: #404BBF;
@@ -15,6 +17,8 @@ body {
     --GREY: #2E2F42 70%;
     --WHITE:#FFFFFF;
     --DAIRY: #FCFCFC;
+    --main-font: Roboto , sans-serif;
+    --secondary-font: Raleway, sans-serif;
     --background-color: #FFFFFF;
     --second-heading-size:36px ;
     --second-heading-weight:700px ;

@@ -1,6 +1,5 @@
 body {
-    font-family: var(--main-font)
-    color: var(--SLATE);
+    font-family: 'Roboto' , sans-serif;
     background-color: var(--background-color);
      }
 

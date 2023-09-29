@@ -1,7 +1,7 @@
 body {
     font-family: 'Roboto' , sans-serif;
     background-color: var(--background-color);
-    text-decoration-color: var(--SLATE);
+    color: #434455;
      }
 
 :root {

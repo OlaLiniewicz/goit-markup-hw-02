@@ -3,7 +3,6 @@ body {
     color: #434455;
     background-color: #ffffff;
      }
-
 :root {
     --IRIS: #4D5AE5;
     --OCEAN: #404BBF;
@@ -35,12 +34,10 @@ body {
     color: #4D5AE5;
     text-decoration: none ;
 }
-
 .span {
     color: #2E2F42;
     text-decoration: none ;
 }
-
 .list {
     font-family: 'Raleway', sans-serif;
     font-weight: 500;
